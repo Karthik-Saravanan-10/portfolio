@@ -1,0 +1,54 @@
+.header {
+    /* background-color: rgb(153, 255, 255); */
+    display: inline-block;
+    width: 100%;
+}
+
+.nav {
+    height: 50px;
+    background-color: rgb(0, 255, 255);
+    font-size: 20px;
+    border: 1px solid;
+    justify-content:end;   
+}
+
+.nav-item { 
+    margin-left: 30px;
+}
+
+#img_1 {
+    width: 35%;
+    height: 65%;
+}
+
+.container_1 {
+    margin-top: 50px ;
+    text-align: center;
+}
+
+.row{
+    margin-top: 30px;
+}
+
+.contact img {
+    width: 28px;
+    margin: 10px;
+}
+
+.btn {
+    margin-top: 15px;
+}
+
+/* .prg { 
+    background-color: rgb(192, 192, 192); 
+    width: 85%; 
+    border-radius: 4px; 
+} 
+
+.prg-br{
+    background-color: blue;
+    width: 80%;
+    color: aliceblue;
+    text-align: center;
+    height: 20px;
+} */
