@@ -12,13 +12,9 @@
     justify-content:end;   
 }
 
-.nav-item { 
-    margin-left: 30px;
-}
-
 #img_1 {
-    width: 35%;
-    height: 65%;
+    width: auto;
+    height: auto;
 }
 
 .container_1 {
